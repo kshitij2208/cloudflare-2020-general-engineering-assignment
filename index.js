@@ -7,7 +7,7 @@ const links = [
   {   "name": "My Profile",
       "url": "https://www.linkedin.com/in/kshitijsutar/"},
   {   "name": "My Repository",
-      "url": "https://lynnmiro.github.io/"},
+      "url": "https://github.com/kshitij2208/cloudflare-2020-general-engineering-assignment"},
   {   "name": "My Resume",
       "url": "https://docs.google.com/document/d/e/2PACX-1vTpvcTM2q8b2ZUk7mQ6-VBw8pqsXUfBmwlCdhtIDGu4_gjOonHPiBMYBRjE0AagGyEwwdqZv5s9SuLR/pub"}
       ];
