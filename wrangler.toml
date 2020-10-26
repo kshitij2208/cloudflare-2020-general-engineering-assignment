@@ -1,0 +1,6 @@
+name = "cloudflare-2020-general-engineering-assignment"
+type = "javascript"
+account_id = "9fc1d4fc0843fefcf3af8605d3ec330c"
+workers_dev = true
+route = ""
+zone_id = "0d22e1c70e5c3a14c50dc9d1c0612d2e"
